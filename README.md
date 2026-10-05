@@ -1,6 +1,6 @@
 # Weather Temperature-Prediction A-Simple RNN Model
 
-A recurrent neural network (Keras `SimpleRNN`) that predicts **next-day temperature** from the previous 14 days of weather data, and forecasts the following **7 days** recursively.
+A recurrent neural network (Keras SimpleRNN) that predicts **next-day temperature** from the previous 14 days of weather data, and forecasts the following **7 days** recursively.
 
 ## Overview
 This project walks through a complete time-series regression workflow: data exploration and cleaning, daily aggregation, scaling, sequence windowing, chronological train/validation/test splitting, RNN training, evaluation against a naive baseline, and multi-day forecasting.
