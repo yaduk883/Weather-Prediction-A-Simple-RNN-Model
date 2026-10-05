@@ -21,8 +21,8 @@ Fill in after running the notebook:
 
 | Model | RMSE (°C) | MAE (°C) | R² |
 |---|---|---|---|
-| SimpleRNN | _ | _ | _ |
-| Persistence baseline | _ | _ | _ |
+| SimpleRNN | 1.878 | 1.415 | 0.951 |
+| Persistence baseline | 2.035 | 1.485 | 0.942 |
 
 
 
